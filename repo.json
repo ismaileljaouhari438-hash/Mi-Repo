@@ -1,0 +1,15 @@
+{
+  "name": "Mi Repo - Providers en castellano",
+  "description": "Extensiones en castellano para CloudStream",
+  "author": "TuNombre",
+  "repo_version": "1",
+  "providers": [
+    {
+      "id": "pelisflix",
+      "name": "Pelisflix",
+      "version": "1.0",
+      "lang": "es",
+      "url":https://raw.githubusercontent.com/ismaileljaouhari438-hash/Mi-Repo/refs/heads/main/proviedors/providers/pelisflix.js
+    }
+  ]
+}
